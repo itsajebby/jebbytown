@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+https://www.jebby.world/* https://www.jebbytown.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://trusting-murdock-58f41f.netlify.com/* https://www.jebbytown.com/:splat 301!
